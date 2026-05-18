@@ -1,12 +1,82 @@
-- 👋 Hi, I’m @Justin17388
-- 👀 I’m interested in ... music, AI, programming, and learning new things.
-- 🌱 I’m currently learning ... AWS and DevOps as well as practicing Python
-- 💞️ I’m looking to collaborate on ... anything interesting honestly.
-- 📫 How to reach me ... jmshinn13@yahoo.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am an ordained minister for the Church of the Gnome and I play/record synth music. Check out my BandCamp.
+# Justin | AWS DevOps Engineer
 
-<!---
-Justin17388/Justin17388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AWS Certified DevOps Engineer focused on cloud infrastructure, automation, CI/CD pipelines, and Infrastructure as Code (IaC).
+
+I combine 12+ years of operational systems and process improvement experience with hands-on cloud engineering and DevOps practices to build scalable, reliable, and automated solutions.
+
+---
+
+## Technical Skills
+
+* Amazon Web Services (AWS)
+
+  * EC2, S3, IAM, VPC
+* Infrastructure as Code (Terraform)
+* Docker & Containerization
+* Kubernetes
+* CI/CD Pipelines
+
+  * GitLab CI/CD
+  * GitHub Actions
+* Linux Administration
+* Bash Scripting
+* Python Automation
+* Git & GitHub
+* Process Automation
+* Cloud Infrastructure
+* Systems Optimization
+* ERP/EDI Systems Exposure
+
+---
+
+## Featured Projects
+
+### AWS Infrastructure Automation
+
+Terraform-based AWS infrastructure deployments with reusable Infrastructure as Code practices.
+
+### Dockerized Application Deployments
+
+Containerized applications using Docker with scalable deployment workflows.
+
+### Kubernetes Learning Labs
+
+Hands-on Kubernetes deployments and orchestration practice projects.
+
+### CI/CD Automation Pipelines
+
+Automated deployment pipelines using GitLab CI/CD and GitHub Actions.
+
+### Linux & Bash Automation
+
+Scripts and automation tools designed to improve operational efficiency and reduce manual administration tasks.
+
+---
+
+## Certifications
+
+* AWS Certified DevOps Engineer
+* AWS Cloud & DevOps Training Programs
+
+---
+
+## Current Focus
+
+* Advanced Kubernetes
+* Cloud Automation
+* Infrastructure Scaling
+* Python for DevOps
+* Platform Engineering
+* EDI/ERP Systems Integration
+* AI-Assisted Automation Workflows
+
+---
+
+## Portfolio & Links
+
+* LinkedIn: [www.linkedin.com/in/justin-m-shinn]
+* Portfolio Website: [https://justin17388.github.io/]
+
+---
+
+Building cloud infrastructure with an operations-first mindset.
